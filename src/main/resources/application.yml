@@ -12,5 +12,6 @@ spring:
         git:
           uri: https://github.com/NguyenTranNhatHung18036971microservice/config-server.git
           default-label: main
+          clone-on-start: true
         bootstrap: false
 
